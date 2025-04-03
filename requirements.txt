@@ -1,0 +1,8 @@
+pandas>=1.3.0
+pymupdf>=1.19.0
+pillow>=8.0.0
+psutil>=5.8.0
+# 如果使用openpyxl引擎读取Excel文件
+openpyxl>=3.0.9
+# 可选依赖
+numpy>=1.20.0 

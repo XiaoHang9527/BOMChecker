@@ -1,0 +1,6 @@
+打包指令：
+添加版本信息，icon图标
+pyinstaller --version-file=version_info.txt
+C:\Users\Duhang\Desktop\DSC01.ico C:\Users\Duhang\Desktop\BOM_Checker\main.py
+
+pyinstaller --version-file=D:\Code\BOM_CheckerV1.4\version_info.txt   -w -F --icon=D:\Code\BOM_CheckerV1.4\icon.ico D:\Code\BOM_CheckerV1.4\BOM_Checker.py
