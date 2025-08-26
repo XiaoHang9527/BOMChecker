@@ -6,3 +6,5 @@ psutil>=5.8.0
 openpyxl>=3.0.9
 # 可选依赖
 numpy>=1.20.0 
+# 文件编码检测
+chardet>=4.0.0
